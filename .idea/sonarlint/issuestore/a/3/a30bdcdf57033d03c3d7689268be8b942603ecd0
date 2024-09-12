@@ -1,0 +1,9 @@
+
+H
+java:S1948	"-Make "controlador" transient or serializable.(Éè£Àþÿÿÿÿ
+b
+java:S3252"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(è·½ê
+\
+java:S3252"AUse static access with "javax.swing.SwingConstants" for "CENTER".(¾·Ýóøÿÿÿÿ
+J
+java:S1068	"/Remove this unused "controlador" private field.(Éè£Àþÿÿÿÿ

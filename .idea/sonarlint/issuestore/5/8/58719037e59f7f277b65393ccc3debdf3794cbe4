@@ -1,0 +1,15 @@
+
+‰
+java:S1192"FDefine a constant instead of duplicating this literal "Arial" 5 times.(­€èš8ñ©¦…2J$56929ec0-0842-4ab2-814f-6b75bd4ed5f2
+n
+java:S1948"-Make "controlador" transient or serializable.(Éè£ÀşÿÿÿÿJ$86145a26-149a-4957-8e80-aa296f786419
+
+java:S3252"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(Òœ Ğ8•ò©¦…2J$9c407b95-4be2-4d2a-9454-75a400421291
+‰
+java:S3252"AUse static access with "javax.swing.SwingConstants" for "CENTER".(€˜ûıÿÿÿÿÿ8˜ò©¦…2J$29afd395-0e57-4faf-bd07-5e7d29b20db5
+‰
+java:S3252@"AUse static access with "javax.swing.SwingConstants" for "CENTER".(–ìÂíıÿÿÿÿ8 ò©¦…2J$c34ee012-d723-43f3-bcbc-665e88171931
+
+java:S6201["FReplace this instanceof check and cast with 'instanceof ArmaView arma'(Ñµø©şÿÿÿÿ8§ò©¦…2J$a01b3c6f-4d0b-45df-b4f9-fa9d9440aee9
+’
+java:S6201`"JReplace this instanceof check and cast with 'instanceof EscudoView escudo'(å‡åÛøÿÿÿÿ8¨ò©¦…2J$443ae5f0-4ecd-46d8-ac0e-1519a9099ce8

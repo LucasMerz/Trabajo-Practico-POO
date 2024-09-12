@@ -1,0 +1,17 @@
+
+”
+java:S3252"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(›çŠËÿÿÿÿÿ8´ä…§…2J$6e6fc28f-80b4-4935-9940-66b0372ca619
+„
+java:S3252"AUse static access with "javax.swing.SwingConstants" for "CENTER".(Äˆºª8¶ä…§…2J$fd4e5397-2025-4d67-aa4c-24b998a937cf
+‰
+java:S3252&"AUse static access with "javax.swing.SwingConstants" for "CENTER".(‚©çåùÿÿÿÿ8¸ä…§…2J$3a0eaeae-19f8-4e76-a722-fc780084dc50
+‹
+java:S5361."HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ïñì8¼ä…§…2J$25acf8ff-c10d-47fc-b011-74b6d9bf2af1
+„
+java:S32521"AUse static access with "javax.swing.SwingConstants" for "CENTER".( ‘Ó…8½ä…§…2J$1037c266-a485-4c64-97b0-f65f946a01b0
+„
+java:S32522"AUse static access with "javax.swing.SwingConstants" for "BOTTOM".(Ş§Œ8½ä…§…2J$b8e2b40e-54b6-4072-a123-38c41283cbd1
+‡
+java:S3252H"?Use static access with "javax.swing.SwingConstants" for "LEFT".(ì±Ñéùÿÿÿÿ8œº¬…2J$1c6a1e5f-0be0-4342-a6cb-f9083fd2e23d
+‡
+java:S3252M"?Use static access with "javax.swing.SwingConstants" for "LEFT".(Õ•ßÛøÿÿÿÿ8 œº¬…2J$c847d7d1-d7df-41bb-9b14-f7d8cf5e4525

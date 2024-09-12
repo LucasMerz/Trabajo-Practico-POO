@@ -1,0 +1,30 @@
+
+
+java:S1192k"JDefine a constant instead of duplicating this literal " Precio: " 3 times.(Ğ‰¯“8ø¤Í¦…2J$f0945254-f8e4-4f40-9f83-0e9eb3635ab1
+r
+java:S1066|"/Merge this if statement with the enclosing one.(¹¨¥Œ8ú¤Í¦…2J$b515bba8-e80f-4db1-bbd3-63ca22deb7ef
+s
+java:S1066‹"/Merge this if statement with the enclosing one.(êÆ¥‚8ú¤Í¦…2J$26e2b447-860e-40dc-8fd8-1076367fd187
+t
+java:S2259P"RA "NullPointerException" could be thrown; "componenteEncontrado" is nullable here.(­—†úÿÿÿÿ8‹ÙÁá…2
+ˆ
+java:S1117"ERename "tiendaComponentes" which hides the field declared at line 10.(ÓÔ£¼8Ç¥Í¦…2J$905010fc-0227-4d33-ba90-a19d17b8e669
+d
+java:S1116@"Remove this empty statement.(€Ä˜ÿÿÿÿÿ8Ê¥Í¦…2J$0a2536f3-23de-445b-b518-e42216cd83c4
+q
+java:S5413H")Verify that "remove()" is used correctly.(¼çËîùÿÿÿÿ8Ì¥Í¦…2J$a47dfc80-9dec-43c4-bce1-8ed296fb46e6
+`
+java:S2119B"Save and re-use this "Random".(¼İÅf8Ï¥Í¦…2J$065a6040-c655-48be-b730-5d2569db2a97
+r	java:S106c"+Replace this use of System.out by a logger.(’ŞÑ¨úÿÿÿÿ8Ù¥Í¦…2J$f381f7c9-0e36-4dbd-80ac-c067c7d70efb
+m	java:S106g"+Replace this use of System.out by a logger.(ú¥ÀÆ8Ú¥Í¦…2J$9b62121a-0626-426c-b2fd-4728f817f2ac
+Š
+java:S6201i"BReplace this instanceof check and cast with 'instanceof Arma arma'(òÓéõùÿÿÿÿ8Ü¥Í¦…2J$a741f2ac-1220-4056-aa3d-a27b36e574dd
+m	java:S106k"+Replace this use of System.out by a logger.(Ğ‰¯“8İ¥Í¦…2J$d48b3b57-8987-44e2-8cae-f53a3a3e4bb0
+‰
+java:S6201l"FReplace this instanceof check and cast with 'instanceof Escudo escudo'(ğ¡ÄÃ8ß¥Í¦…2J$9499abaf-6fae-4937-8adb-975f270be531
+r	java:S106n"+Replace this use of System.out by a logger.(Æ›øİùÿÿÿÿ8á¥Í¦…2J$10b7f56e-2b1a-4f42-81cb-6cf48fd0dba2
+m	java:S106p"+Replace this use of System.out by a logger.(È˜­²8Â„Ã³…2J$fd92ae2d-ac04-413f-b600-6e7e25b05e4c
+r	java:S106t"+Replace this use of System.out by a logger.(€ı´·ùÿÿÿÿ8á¥Í¦…2J$d34196f7-ef54-4b7c-9797-c38d511bb078
+s	java:S106‘"+Replace this use of System.err by a logger.(¼ıÿÿÿÿ8ç¥Í¦…2J$c755379f-ea6f-48c6-8709-4d910d8dab26
+
+java:S2696—"6Make the enclosing method "static" or remove this set.(¹ŠÿÊùÿÿÿÿ8é¥Í¦…2J$e6d7cc7a-4b94-4309-9f3b-2542d32c7a10

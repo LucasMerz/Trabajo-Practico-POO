@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºï™êøÿÿÿÿ
+W	java:S107"BConstructor has 11 parameters, which is greater than 7 authorized.(›–úº
+A
+java:S1128"+Remove this unused import 'org.model.Arma'.(íêãÁ
+G
+java:S1128"1Remove this unused import 'org.model.Componente'.(’ïÎ
+C
+java:S1128"-Remove this unused import 'org.model.Escudo'.(Ÿåüê
+I
+java:S1128".Remove this unused import 'org.model.Planeta'.(áî½µıÿÿÿÿ

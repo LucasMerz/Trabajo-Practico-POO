@@ -1,0 +1,20 @@
+
+˜	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûàôêıÿÿÿÿ8¼ß‡´…2J$2940b736-c3b1-4dad-afec-28b3788dbec6
+“	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÈä“8¼ß‡´…2J$87d38d43-1d65-432e-a0c2-ae8751a3a2ca
+p
+java:S1604E"(Make this anonymous inner class a lambda(°®¥ıÿÿÿÿ8¾ß‡´…2J$b4236a2e-d581-4887-8c2e-262df22ae676
+k
+java:S1604S"(Make this anonymous inner class a lambda(ù®€ª8¾ß‡´…2J$f58c681c-8936-4fe0-b727-1674a65eed3f
+p
+java:S1604^"(Make this anonymous inner class a lambda(û•‘×ÿÿÿÿÿ8¾ß‡´…2J$60a11fc3-5aed-469a-9bf0-0f32a27a992e
+‘
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ8Ïß‡´…2J$b44ea5d9-afd2-423b-9838-6398297c0b82
+
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(€€ñ™ÿÿÿÿÿ8Òß‡´…2J$5375fa13-17b4-457e-85cb-9253cf51b915
+„
+java:S3252."AUse static access with "javax.swing.SwingConstants" for "CENTER".(¬¨ÀÎ8Ôß‡´…2J$bc75fa89-4fc2-40d7-955a-4cd6b4755424
+„
+java:S32525"AUse static access with "javax.swing.SwingConstants" for "CENTER".(ğÈä“8Õß‡´…2J$a617b9f7-bf9e-4644-98d0-ae3d193e499a
+~	java:S125J"<This block of commented-out lines of code should be removed.(ò¨Š8İß‡´…2J$f627b431-6a47-46ed-8b36-e6b4c0d9098a
+r	java:S106M"+Replace this use of System.out by a logger.(ıĞáêøÿÿÿÿ8ßß‡´…2J$83d09521-c95f-4db9-9cb1-21fcf1aa0ac2
+r	java:S106W"+Replace this use of System.out by a logger.(à‘Ò©ûÿÿÿÿ8áß‡´…2J$552c8955-c4c1-4af0-af95-22ae2b19d7db

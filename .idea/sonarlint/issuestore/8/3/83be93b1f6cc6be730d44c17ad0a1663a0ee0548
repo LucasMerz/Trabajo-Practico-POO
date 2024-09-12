@@ -1,0 +1,12 @@
+
+”	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îìİ¡8è•š´…2J$b64a6808-b111-4b6e-8a04-6a389643685b
+”	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÈµŸ8è•š´…2J$0a7db815-8765-4df3-8605-9425338d0a5a
+‘
+java:S2259ˆ"HA "NullPointerException" could be thrown; "componente" is nullable here.(İÚ½„ûÿÿÿÿ8¬–š´…2J$c9d14604-0bbe-4243-899b-e30df0431609
+–
+java:S2259‡"R"NullPointerException" will be thrown when invoking method "eliminarComponente()".(†ºû8¬–š´…2J$8d86e0dd-8863-41a3-b719-da45126683d5
+q
+java:S1481u")Remove this unused "arma" local variable.(Ö¢Áıÿÿÿÿ8¼–š´…2J$33e92af5-f9e1-4933-9586-d57ca2e182eb
+m
+java:S5413Ÿ")Verify that "remove()" is used correctly.(ë¥ª8É–š´…2J$0ccda26c-1d28-464e-8fb7-a0f8e88ff473
+‘	java:S100Æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îìİ¡8Ï–š´…2J$4b4b04d1-1038-4bf2-907d-205d75f39a72

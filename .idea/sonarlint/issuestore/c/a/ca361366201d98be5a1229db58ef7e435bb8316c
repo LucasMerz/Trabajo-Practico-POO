@@ -1,0 +1,16 @@
+
+u
+java:S1948	"-Make "controlador" transient or serializable.(Éè£Àþÿÿÿÿ8üêŒ­…2J$9135308c-026a-4269-a171-e917345efab4
+‘
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öþÿÿÿÿ8€ëŒ­…2J$3a7aa6da-4918-45f3-b587-6e05e9f05080
+„
+java:S3252"AUse static access with "javax.swing.SwingConstants" for "CENTER".(éÿæ¦8ëŒ­…2J$c7944169-1094-475f-833c-0c41efc5f868
+ƒ	java:S125>"<This block of commented-out lines of code should be removed.(Ëž¨ëøÿÿÿÿ8‰ëŒ­…2J$d88ffc7f-10f8-47d7-938a-97583a112674
+o
+java:S1602C",Remove useless curly braces around statement(èÔŸ•8ŸìÎ³…2J$4fac48f1-d944-41de-8f64-01f5ad17f5c4
+ƒ
+java:S3252e"AUse static access with "javax.swing.SwingConstants" for "CENTER".(Ïú¹8ŒëŒ­…2J$a036e804-b1ee-4902-a005-eb1db4922e9b
+„
+java:S3252f"AUse static access with "javax.swing.SwingConstants" for "BOTTOM".(„Ÿü°8ŒëŒ­…2J$bb24c4a4-a68c-46a9-ba5d-abb54c259c17
+w
+java:S1068	"/Remove this unused "controlador" private field.(Éè£Àþÿÿÿÿ8ŽëŒ­…2J$ba7386ac-17f8-47bc-a87d-31bf4c30830e

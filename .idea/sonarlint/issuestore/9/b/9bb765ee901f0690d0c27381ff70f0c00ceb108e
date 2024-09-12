@@ -1,0 +1,13 @@
+
+u
+java:S1948"-Make "controlador" transient or serializable.(Éè£Àşÿÿÿÿ8Ï ­…2J$48b86963-4738-4598-93c8-3cd7cee1bc18
+‘
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ8Ó ­…2J$99aeac66-ccc9-4b1f-b659-8c167fc37599
+„
+java:S3252:"AUse static access with "javax.swing.SwingConstants" for "CENTER".(Ëüµã8Ø ­…2J$2b25f6ef-3862-431a-9654-5b669c8551d8
+ƒ
+java:S3252G"AUse static access with "javax.swing.SwingConstants" for "CENTER".(†²å8Ú ­…2J$f405931e-2dd6-499c-a8f1-1f262f1766d3
+`
+java:S1128">Remove this unused import 'org.model.objectViews.PlanetaView'.(ÊŸîŸıÿÿÿÿ8˜ÇË­…2
+w
+java:S1068"/Remove this unused "controlador" private field.(Éè£Àşÿÿÿÿ8ß ­…2J$8bc179e9-b91c-4849-9cfc-a1266c98e4a3

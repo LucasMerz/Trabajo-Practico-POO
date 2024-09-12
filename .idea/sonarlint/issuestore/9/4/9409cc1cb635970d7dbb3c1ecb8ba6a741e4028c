@@ -1,0 +1,17 @@
+
+£
+java:S1488‹"_Immediately return this expression instead of assigning it to the temporary variable "mensaje".(ßÃ¬¶8¹³”­…2J$05f8709e-ba8a-466c-af76-3ff985d4e329
+á
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(Ø§³ÿÿÿÿÿ8È³”­…2J$9283f0c5-362f-46dc-83e6-08c673375556
+r	java:S106<"+Replace this use of System.out by a logger.(ãºÍÿÿÿÿÿ8Ù³”­…2J$addcbda4-51ad-427f-bdaa-6cd2ed88f522
+m	java:S106?"+Replace this use of System.out by a logger.(¶¼›8Ù³”­…2J$e2405920-da4c-400c-b179-2f10ac2b9730
+m	java:S106B"+Replace this use of System.out by a logger.(¢õŸâ8Ú³”­…2J$bc24c2e2-1d9c-4b5b-8463-878305e887f0
+m	java:S106E"+Replace this use of System.out by a logger.(¯Şæ´8Ú³”­…2J$c802aba2-09d8-4c23-826b-cf6262035149
+r	java:S106G"+Replace this use of System.out by a logger.(ÚôäÑıÿÿÿÿ8Ú³”­…2J$dece3619-8ff1-4d42-b97c-4819e709e475
+m	java:S106H"+Replace this use of System.out by a logger.(ÛŒ˜ß8Ú³”­…2J$21f5f719-4d83-483c-a787-d9cb282a7e42
+y
+java:S2209š"5Change this instance-reference to a static reference.(´Üçå8ä³”­…2J$b4dc9ae0-e3c7-4ca4-9d9b-dd89e07a12e9
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8±×Áá…2
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8²×Áá…2
